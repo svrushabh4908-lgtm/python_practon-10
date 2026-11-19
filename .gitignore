@@ -1,0 +1,22 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Testing Cache
+.pytest_cache/
+
+# Ruff Cache
+.ruff_cache/
+
+# Log Files
+*.log
+application.log
+
+# IDE
+.vscode/
+.idea/
